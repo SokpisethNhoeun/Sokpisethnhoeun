@@ -8,17 +8,17 @@
 
 <p>
   💻 I'm a passionate software developer who loves building apps, solving real-world problems, and learning new technologies. <br/>
-  🌱 Currently learning: Retrieval Augmented Generation (RAG), Large Language Model (LLM), Backend development with Kotlin (Ktor), python, Kotlin Multiplatform and linux<br/>
-  📚 Interests: Flutter, Web Dev, IoT, AI & Networking <br/>
+  🌱 Currently learning: Retrieval Augmented Generation (RAG), Large Language Model (LLM), Backend development with String boot (Rest API), Node js (express js) , Next js / React js for frontend, and linux<br/>
+  📚 Interests: DevOp, Web Dev, IoT, AI & Networking <br/>
 </p>
 
 <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif" />
 
 <br/>
 
-<img src="https://stats.pphat.top/stats?username=NhoeunSokpiseth&avatar_mode=radar&theme=default&data_border_style=frame"/>
+<img src="https://stats.pphat.top/stats?username=Sokpisethnhoeun&avatar_mode=radar&theme=default&data_border_style=frame"/>
 
-<img src="https://stats.pphat.top/languages?username=NhoeunSokpiseth&type=card&show_info=true&theme=default"/>
+<img src="https://stats.pphat.top/languages?username=Sokpisethnhoeun&type=card&show_info=true&theme=default"/>
 
 <br/>
 
