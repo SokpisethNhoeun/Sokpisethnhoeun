@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1>💫 About Me</h1> 
 
-<!--
-**SokpisethNhoeun/Sokpisethnhoeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=NhoeunSokpiseth&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="NhoeunSokpiseth" />
+</p>  
 
-Here are some ideas to get you started:
+<h3>I'm Nhoeun Sokpiseth</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  💻 I'm a passionate software developer who loves building apps, solving real-world problems, and learning new technologies. <br/>
+  🌱 Currently learning: Retrieval Augmented Generation (RAG), Large Language Model (LLM), Backend development with Kotlin (Ktor), python, Kotlin Multiplatform and linux<br/>
+  📚 Interests: Flutter, Web Dev, IoT, AI & Networking <br/>
+</p>
+
+<img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif" />
+
+<br/>
+
+<img src="https://stats.pphat.top/stats?username=NhoeunSokpiseth&avatar_mode=radar&theme=default&data_border_style=frame"/>
+
+<img src="https://stats.pphat.top/languages?username=NhoeunSokpiseth&type=card&show_info=true&theme=default"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif" />
+
+
+<h2>🌐 Connect with Me</h2>
+<p>
+  <a href="https://t.me/NhoeunSokpiseth" target="_blank">Telegram</a> |
+  <a href="mailto:NhoeunSokpiseth@gmail.com">Email</a> |
+  <a href="https://github.com/NhoeunSokpiseth">GitHub</a>
+</p>
+
+<br/>
+
+<blockquote>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</blockquote>
